@@ -4,4 +4,8 @@ A Clicker Gaem: Gacha (ACG: Gacha) is a parody on Gacha games, in the A Clicker 
 Nightly 3 Goals (Help if you can):
 * Work on Music and SFX
 * Work on Dialogue System
-* Work on Jhon and Rog dialogue 
+* Work on Jhon and Rog dialogue
+
+  Developers:
+* Binray
+* Flag098
