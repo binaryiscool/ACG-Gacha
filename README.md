@@ -6,6 +6,6 @@ Nightly 3 Goals (Help if you can):
 * Work on Dialogue System
 * Work on Jhon and Rog dialogue
 
-  Developers:
+### Developers:
 * Binray
 * Flag098
